@@ -1,0 +1,13 @@
+html{
+      height:auto;
+  }
+html body h1,h2,h3,p,pre{
+	padding-top: 260px;
+	font-size: small;
+    height: 100%;
+    margin: 0px;
+    background-position: 50% 50%;
+    background-image: url("/home/w3cert/training/images/logo11w.png");
+	background-size: 269px 95px;
+	background-repeat: no-repeat;
+	}
